@@ -1,5 +1,5 @@
 # Problem-Solving
-01204214 Problem Solving Laboratory | Learning data structure &amp; algorithm
+01204214 Problem Solving Laboratory | Learning data structure &amp; algorithm | C++
   - Week1 : Basic data structure
   - Week2 : Pointer
   - Week3 : Linked List
